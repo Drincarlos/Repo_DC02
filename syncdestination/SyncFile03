@@ -8,3 +8,7 @@ commands
 push
 pull
 commit
+no
+no
+false
+true
